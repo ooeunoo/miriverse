@@ -3,9 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appIDs": [
-          "GJ638P32H3.com.miriverse.dongnechejeon"
-        ],
+        "appID": "GJ638P32H3.com.miriverse.dongnechejeon",
         "paths": [
           "*"
         ]
